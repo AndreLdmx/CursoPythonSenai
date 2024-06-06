@@ -1,0 +1,5 @@
+print("Mágico virtual")
+c1=str(input("Pense em um caractere: "))
+c2=input("Pense em um outro caractere: ")
+print(f"Você pensou em {c1} e {c2}, certo?")
+input()
